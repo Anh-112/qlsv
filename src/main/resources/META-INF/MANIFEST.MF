@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.nmt.qlsv.App
+Class-Path: commons-compress-1.18.jar poi-ooxml-schemas-4.1.0.jar poi-4.
+ 1.0.jar commons-collections4-4.3.jar mssql-jdbc-9.4.1.jre11.jar curvesa
+ pi-1.06.jar commons-math3-3.6.1.jar xmlbeans-3.1.0.jar poi-ooxml-4.1.0.
+ jar commons-codec-1.12.jar
+
